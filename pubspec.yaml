@@ -1,0 +1,168 @@
+name: fitnessmap
+description: A new Flutter application.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  flutter_spinkit: ^4.1.1+1
+  animated_text_kit: ^2.0.0
+  font_awesome_flutter: ^8.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/f.jpg
+    - assets/appbar.jpg
+    - assets/food.png
+    - assets/meat.png
+    - assets/cocktail.png
+    - assets/candy.png
+    - assets/starch.png
+    - assets/fruits.png
+    - assets/grain.png
+    - assets/nut.png
+    - assets/olive-oil.png
+    - assets/tomato.png
+    - assets/cucumber.png
+    - assets/pepper.png
+    - assets/carrot.png
+    - assets/onion-g.png
+    - assets/cabbage.png
+    - assets/broccoli.png
+    - assets/courgette.png
+    - assets/olives.png
+    - assets/spinach.png
+    - assets/cauliflower.png
+    - assets/celery.png
+    - assets/lettuce.png
+    - assets/mushroom.png
+    - assets/potato.png
+    - assets/aubergine.png
+
+    - assets/apple.png
+    - assets/banana.png
+    - assets/cherry.png
+    - assets/grape.png
+    - assets/kiwi.png
+    - assets/orange.png
+    - assets/peach.png
+    - assets/pear.png
+    - assets/pineapple.png
+    - assets/plum.png
+    - assets/strawberries.png
+    - assets/apricot.png
+    - assets/watermelon.png
+    - assets/fig.png
+    - assets/guava.png
+    - assets/mangoo.png
+
+    - assets/bagel.png
+    - assets/chocolate.png
+    - assets/butter.png
+    - assets/chewing-gum.png
+    - assets/chips.png
+    - assets/honey.png
+    - assets/jam.png
+    - assets/margen.png
+    - assets/mint.png
+    - assets/popcorn.png
+    - assets/sugar.png
+
+    - assets/noodles.png
+    - assets/pasta.png
+    - assets/chapatis.png
+
+    - assets/rice.png
+    - assets/beans.png
+    - assets/cowpea.png
+    - assets/peas.png
+    - assets/soybean.png
+    - assets/lentils.png
+    - assets/peanut.png
+
+    - assets/beef.png
+    - assets/chicken.png
+    - assets/duck.png
+    - assets/liver.png
+    - assets/lamb.png
+    - assets/lobster.png
+    - assets/mussel.png
+    - assets/rabbit.png
+    - assets/salmon.png
+    - assets/sardines.png
+    - assets/sausage.png
+    - assets/trout.png
+    - assets/touna.png
+    - assets/tuna.png
+    - assets/turkey.png
+    - assets/veal.png
+
+    - assets/almond.png
+    - assets/cashew.png
+    - assets/pistachio.png
+    - assets/coconut.png
+    - assets/hazelnut.png
+    - assets/raisins.png
+
+    - assets/cheese.png
+    - assets/creem-cheese.png
+    - assets/custard.png
+    - assets/egg.png
+    - assets/fried-egg.png
+    - assets/ice-cream.png
+    - assets/milk.png
+    - assets/milk2.png
+    - assets/yogurt.png
+
+    - assets/coke.png
+    - assets/can.png
+    - assets/apple-juice.png
+    - assets/juice-ora.png
+    - assets/mango-juice.png
+    - assets/lemon-juice.png
+
+    - assets/burger.png
+    - assets/pizza.png
+    - assets/fries.png
+    - assets/hotdog.png
+    - assets/drumstick.png
+    - assets/crepe.png
+    - assets/crepe2.png
+
+    - assets/koshary.jpg
+    - assets/falafel.jpg
+    - assets/besara.jpg
+    - assets/baba.jpg
+    - assets/bazm.jpg
+    - assets/bazmq.jpg
+    - assets/balady.jpg
+    - assets/feno.jpg
+    - assets/shamy.jpg
+    - assets/sen.jpg
+    - assets/shorbet.jpg
+    - assets/molo5ya.png
+    - assets/mahshyw.webp
+    - assets/mahshyk.jpg
+    - assets/basha.jpg
+    - assets/hamam.jpg
+    - assets/bat.jpg
+    - assets/ads.jpg
+    - assets/gambry.jpg
+    - assets/renga.jpg
+    - assets/fseekh.jpg
+    - assets/fool.jpg
+
